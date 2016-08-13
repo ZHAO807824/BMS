@@ -1,0 +1,15 @@
+2016-08-13 17:22:11,550 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+ 2016-08-13 17:22:11,568 - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@67d1a6b3, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@75176704, org.springframework.test.context.support.DirtiesContextTestExecutionListener@536c73aa, org.springframework.test.context.transaction.TransactionalTestExecutionListener@751dc8af, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@7662953a]
+ 2016-08-13 17:22:11,742 - Loading XML bean definitions from class path resource [spring/spring-web.xml]
+ 2016-08-13 17:22:12,063 - Loading XML bean definitions from class path resource [spring/spring-bean.xml]
+ 2016-08-13 17:22:12,134 - Refreshing org.springframework.context.support.GenericApplicationContext@752329fa: startup date [Sat Aug 13 17:22:12 CST 2016]; root of context hierarchy
+ 2016-08-13 17:22:12,326 - Loading properties file from class path resource [jdbc.properties]
+ 2016-08-13 17:22:12,468 - Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+ 2016-08-13 17:22:12,528 - MLog clients using log4j logging.
+ 2016-08-13 17:22:12,728 - Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+ 2016-08-13 17:22:13,126 - Mapped "{[/admin],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.bms.controller.admin.AdminController.index()
+ 2016-08-13 17:22:13,127 - Mapped "{[],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.bms.controller.user.UserController.index()
+ 2016-08-13 17:22:13,263 - Looking for @ControllerAdvice: org.springframework.context.support.GenericApplicationContext@752329fa: startup date [Sat Aug 13 17:22:12 CST 2016]; root of context hierarchy
+ 2016-08-13 17:22:13,336 - Looking for @ControllerAdvice: org.springframework.context.support.GenericApplicationContext@752329fa: startup date [Sat Aug 13 17:22:12 CST 2016]; root of context hierarchy
+ 2016-08-13 17:22:13,470 - Closing org.springframework.context.support.GenericApplicationContext@752329fa: startup date [Sat Aug 13 17:22:12 CST 2016]; root of context hierarchy
+ 
