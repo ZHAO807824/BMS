@@ -6,3 +6,4 @@ encoding//src/main/resources/spring/spring-web.xml=UTF-8
 encoding//src/main/webapp/WEB-INF/jsp=UTF-8
 encoding//src/main/webapp/WEB-INF/jsp/admin/common/_header.jsp=UTF-8
 encoding//src/main/webapp/WEB-INF/jsp/admin/login.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/admin/main.jsp=UTF-8
